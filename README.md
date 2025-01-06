@@ -2,4 +2,4 @@
 
   Headphones is a fully responsive Headphones website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://YujiTech.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://yujitech.github.io/Responsive-Headphones-Landing-Page-using-HTML-CSS-and-JavaScript-/"><strong>➥ Live Demo</strong></a>  
